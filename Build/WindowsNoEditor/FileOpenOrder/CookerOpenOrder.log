@@ -1,0 +1,900 @@
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Lantern_N.uasset" 0
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Lantern_M.uasset" 1
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Lantern_BC.uasset" 2
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/AlphaBlend/WorldAlignedBlend.uasset" 3
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 4
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 5
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 6
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 7
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 8
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 9
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 10
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 11
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.uasset" 12
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 13
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 14
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 15
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Functions/MF_CheaperNormalBlend.uasset" 16
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Functions/RainParameters.uasset" 17
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Effects/T_RainDrops_N.uasset" 18
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Functions/MF_Rain.uasset" 19
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Terrain/T_Sand_N.uasset" 20
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Functions/MF_Enviromental_Sand.uasset" 21
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Generic/T_Cloud_M.uasset" 22
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/MasterMaterials/M_SimpleProp.uasset" 23
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_BarrelTall_N.uasset" 24
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_BarrelTall_M.uasset" 25
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_BarrelTall_BC.uasset" 26
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_BarrelTall.uasset" 27
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Barrel_Tall.uasset" 28
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/IInteractible.uasset" 29
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/Blueprints/PopUpUI.uasset" 30
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/Interactibles/BPInteractiveObject.uasset" 31
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/Blueprints/VRPawn.uasset" 32
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/Blueprints/VRGameMode.uasset" 33
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Basket_N.uasset" 34
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Basket_M.uasset" 35
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Basket_BC.uasset" 36
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_Basket.uasset" 37
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Basket1.uasset" 38
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/Interactibles/BP_Basket.uasset" 39
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/Interactibles/BP_Barrel.uasset" 40
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Photos_BC.uasset" 41
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Effects/T_Water_N.uasset" 42
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Generic/T_GenericDamage_M.uasset" 43
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_Photos.uasset" 44
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_BorderTrimSheet_N.uasset" 45
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_BorderTrimSheet_M.uasset" 46
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_BorderTrimSheet_BC.uasset" 47
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_PaintingBorders.uasset" 48
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Photos_Set2.uasset" 49
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Books_N.uasset" 50
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Books_M.uasset" 51
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Books_BC.uasset" 52
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_Books.uasset" 53
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Building_Int_Shop_Shelf_Books1.uasset" 54
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 55
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_BakedNormal.uasset" 56
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Standard.uasset" 57
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_TenLayerBlend.uasset" 58
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_Int_WoodenPanelTrim_N.uasset" 59
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_Int_WoodenPanelTrim_M.uasset" 60
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_Int_WoodenPanelTrim_BC.uasset" 61
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Interior/M_Furniture.uasset" 62
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Building_Int_Nightstand.uasset" 63
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Interior/T_Blanket1_N.uasset" 64
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Generic/T_Sack_N.uasset" 65
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Generic/T_Cloth_N.uasset" 66
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Interior/M_Blanket.uasset" 67
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Bed_Single.uasset" 68
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 69
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 70
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 71
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 72
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 73
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 74
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/InverseTransformMatrix.uasset" 75
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 76
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TransformToZVector.uasset" 77
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_BlankWhite_01.uasset" 78
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ParallaxOcclusionMapping.uasset" 79
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_OrnamentCeiling_N.uasset" 80
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_OrnamentCeiling_M.uasset" 81
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_OrnamentCeiling_BC.uasset" 82
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_FloorPlanks_N.uasset" 83
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_FloorPlanks_M.uasset" 84
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_FloorPlanks_BC.uasset" 85
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Interior/M_Building_Floor.uasset" 86
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Floors/SM_Building_Floor_4X8.uasset" 87
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Interior/T_Curtains1_N.uasset" 88
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Interior/T_Curtains1_BC.uasset" 89
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Interior/M_Curtains.uasset" 90
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_Wall_W2_2X_Curtains.uasset" 91
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 92
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 93
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 94
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_LogTimSheet_N.uasset" 95
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_LogTimSheet_M.uasset" 96
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_LogTimSheet_BC.uasset" 97
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_LightWood_N.uasset" 98
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_LightWood_M.uasset" 99
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_LightWood_BC.uasset" 100
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Generic/T_Dripping_Dirt_M.uasset" 101
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Exterior/M_Building_Terrace.uasset" 102
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Terrace/SM_Building_Terrace_Stairs_1X2.uasset" 103
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Logs_N.uasset" 104
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Logs_M.uasset" 105
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Logs_BC.uasset" 106
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_Logs.uasset" 107
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Log_Pile_3.uasset" 108
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Log_Pile_2.uasset" 109
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Log_Pile_1.uasset" 110
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_Lantern.uasset" 111
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 112
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/MasterMaterials/M_Glass.uasset" 113
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_ClearGlass.uasset" 114
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Lantern.uasset" 115
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Interior/T_Carpet2_BC.uasset" 116
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Interior/T_Carpet1_BC.uasset" 117
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Interior/T_Carpet1_N.uasset" 118
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Interior/M_Carpet.uasset" 119
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Interior/MI_Carpet2.uasset" 120
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_Int_Wall1_N.uasset" 121
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_Int_Wall1_M.uasset" 122
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_Int_Wall1_BC.uasset" 123
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Interior/M_Interior_Wall.uasset" 124
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_RoofShingles_N.uasset" 125
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_RoofShingles_M.uasset" 126
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_RoofShingles_BC.uasset" 127
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Exterior/M_Building_Exterior_Wall.uasset" 128
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Exterior/T_Building_Window_M.uasset" 129
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Exterior/MI_BuildingGlass.uasset" 130
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_A_Wall_W2_2X.uasset" 131
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Lantern2_BC.uasset" 132
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_Lantern2.uasset" 133
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Carpet1_6X3.uasset" 134
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Building_Int_Shop_Shelf_2X.uasset" 135
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_A_Wall_4X.uasset" 136
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_OldMetal_N.uasset" 137
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_OldMetal_M.uasset" 138
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_OldMetal_BC.uasset" 139
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Interior/MI_MetalBars.uasset" 140
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Stove_N.uasset" 141
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Stove_M.uasset" 142
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Stove_BC.uasset" 143
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_Stove.uasset" 144
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Stove.uasset" 145
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_SaloonTable_N.uasset" 146
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_SaloonTable_M.uasset" 147
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_SaloonTable_BC.uasset" 148
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_SaloonTable.uasset" 149
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Building_Int_Saloon_Table.uasset" 150
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_ReqularChair_N.uasset" 151
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_ReqularChair_M.uasset" 152
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_ReqularChair_BC.uasset" 153
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_ReqularChair.uasset" 154
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Building_Int_Reqular_Chair.uasset" 155
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Floors/SM_Building_Floor_8X8.uasset" 156
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Floors/SM_Building_Floor_2X8.uasset" 157
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_Wall_W5_2X_Curtains.uasset" 158
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_A_Wall_W5_2X.uasset" 159
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_A_Wall_Roof_C.uasset" 160
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_A_Wall_D_2X.uasset" 161
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_A_Wall_Corner_In_1X.uasset" 162
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_A_Wall_2X.uasset" 163
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Terrace/SM_Building_Terrace_Stairs2_1X1.uasset" 164
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Terrace/SM_Building_Footer_Middle_4X.uasset" 165
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Terrace/SM_Building_Footer_Middle_2X.uasset" 166
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Terrace/SM_Building_Footer_C_2X2.uasset" 167
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Terrace/SM_Building_A_Terrace_Middle_4X.uasset" 168
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Terrace/SM_Building_A_Terrace_End_R_1X1.uasset" 169
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Terrace/SM_Building_A_Terrace_End_L_1X2.uasset" 170
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Interior/MI_Building_Floor2.uasset" 171
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Effects/T_WallLantern_IES.uasset" 172
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_WallLantern_N.uasset" 173
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_WallLantern_M.uasset" 174
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_WallLantern_BC.uasset" 175
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_WallLantern.uasset" 176
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Wall_Lantern.uasset" 177
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Effects/T_Effects_Fire_Tiled_BC.uasset" 178
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Effects/T_Effects_Fire_SubUV.uasset" 179
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Effects/M_Effects_Fire.uasset" 180
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Effects/PS_LanternFire.uasset" 181
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Props/BP_WallLantern.uasset" 182
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/T_IBL_Inside.uasset" 183
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Effects/T_Interior_LUT.uasset" 184
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Interior/MI_Interior_Wall1.uasset" 185
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Interior/MI_Curtains1.uasset" 186
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Interior/MI_Building_Floor1.uasset" 187
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Exterior/MI_Building_Exterior_Wall1.uasset" 188
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Effects/T_Raindrop_N.uasset" 189
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Effects/T_RainDrop_BC.uasset" 190
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Effects/M_Rain.uasset" 191
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Effects/PS_Rain.uasset" 192
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Generic/T_Smudge_M.uasset" 193
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Generic/T_GenericDust_M.uasset" 194
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Effects/M_MovingDust.uasset" 195
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Effects/PS_MovingDust.uasset" 196
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/CustomSky/T_Sky_Stars_BC.uasset" 197
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/CustomSky/T_Sky_Clouds_M.uasset" 198
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/CustomSky/T_Sky_Blue_BC.uasset" 199
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/CustomSky/M_Sky_Panning_Clouds2.uasset" 200
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/CustomSky/MI_Sky_Panning_Clouds2.uasset" 201
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/CustomSky/SM_SkySphere.uasset" 202
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/CustomSky/BP_Sky.uasset" 203
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 204
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Controllers/BP_EnvironmentController.uasset" 205
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 206
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 207
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 208
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 209
+"../../../Engine/Content/BasicShapes/Cube.uasset" 210
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Effects/M_VolumetricFog.uasset" 211
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Buildings/BP_Parent_Building.uasset" 212
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Sound/Waves/SFX_Outdoor_Opening1.uasset" 213
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Sound/Cues/SFX_Outdoor_Opening_Cue.uasset" 214
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Exterior/T_Builing_Door_BC.uasset" 215
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Exterior/T_Building_Door_N.uasset" 216
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Exterior/T_Building_Door_M.uasset" 217
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Exterior/MI_Building_Door.uasset" 218
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/SM_Building_Door1.uasset" 219
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Buildings/BP_Building_Door1.uasset" 220
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Buildings/BP_B_CommonHouse2.uasset" 221
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/TestPlayer/T_TestPersonCrosshair_BC.uasset" 222
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/TestPlayer/BP_TestPlayerHUD.uasset" 223
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/TestPlayer/BP_HeadBob.uasset" 224
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/TestPlayer/BP_TestPlayer.uasset" 225
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/TestPlayer/BP_TestPlayerGameMode.uasset" 226
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Generic/T_Sand_BC.uasset" 227
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Generic/T_Sand_N.uasset" 228
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 229
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 230
+"../../../Engine/Content/BasicShapes/Cone.uasset" 231
+"../../../Engine/Content/BasicShapes/Plane.uasset" 232
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 233
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 234
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 235
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 236
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 237
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 238
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 239
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 240
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 241
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 242
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 243
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 244
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 245
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 246
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 247
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 248
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 249
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 250
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 251
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 252
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 253
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 254
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 255
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 256
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 257
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 258
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 259
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 260
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 261
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 262
+"../../../Engine/Content/EditorResources/S_KHinge.uasset" 263
+"../../../Engine/Content/EditorResources/S_Note.uasset" 264
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 265
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 266
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 267
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 268
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 269
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 270
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 271
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 272
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 273
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 274
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 275
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 276
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 277
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 278
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 279
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 280
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 281
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 282
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 283
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 284
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 285
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 286
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 287
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 288
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 289
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 290
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 291
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 292
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 293
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 294
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 295
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 296
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 297
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 298
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 299
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 300
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 301
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 302
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 303
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 304
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 305
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 306
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 307
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 308
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 309
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 310
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 311
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 312
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 313
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 314
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 315
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 316
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 317
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 318
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 319
+"../../../Engine/Content/EngineResources/Black.uasset" 320
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 321
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 322
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 323
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 324
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 325
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 326
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 327
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 328
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 329
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 330
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 331
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 332
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 333
+"../../../Engine/Content/EngineSounds/Master.uasset" 334
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 335
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 336
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 337
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 338
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 339
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 340
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 341
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 342
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 343
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 344
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 345
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 346
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 347
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 348
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 349
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 350
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 351
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 352
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 353
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 354
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 355
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 356
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 357
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 358
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 359
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 360
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 361
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 362
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 363
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 364
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 365
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 366
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 367
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 368
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 369
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 370
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 371
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 372
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 373
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 374
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 375
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 376
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 377
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 378
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 379
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 380
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 381
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 382
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 383
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 384
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 385
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 386
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 387
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 388
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 389
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 390
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 391
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 392
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 393
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 394
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 395
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 396
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 397
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 398
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Terrain/T_Wetness_N.uasset" 399
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Terrain/T_Wetness_M.uasset" 400
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Terrain/T_Wetness_BC.uasset" 401
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Terrain/T_Tiling_Ground_N.uasset" 402
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Terrain/T_SandGrass_N.uasset" 403
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Terrain/T_SandGrass_M.uasset" 404
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Terrain/T_SandGrass_BC.uasset" 405
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Terrain/T_Sand_M.uasset" 406
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Terrain/T_Sand_BC.uasset" 407
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Terrain/T_Rock_N.uasset" 408
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Terrain/T_Rock_BC.uasset" 409
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/T_IBL_Out.uasset" 410
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Generic/T_Generic_Smoke_M.uasset" 411
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Foliage/T_Fol_DeadTreeTrunk_N.uasset" 412
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Foliage/T_Fol_DeadTreeTrunk_M.uasset" 413
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Foliage/T_Fol_DeadTreeTrunk_BC.uasset" 414
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Foliage/T_Fol_Cactus_N.uasset" 415
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Foliage/T_Fol_Cactus_M.uasset" 416
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Foliage/T_Fol_Cactus_BC.uasset" 417
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Nature/Foliage/M_Trunk.uasset" 418
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Nature/Foliage/MI_DeadTreeTrunk.uasset" 419
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Foliage/SM_Fol_Dead_Tree_1.uasset" 420
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Procedural/Nature_DeadTree_2.uasset" 421
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Procedural/Nature_DeadTree_1.uasset" 422
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Nature/Foliage/MI_Cactus.uasset" 423
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Foliage/SM_Fol_Cactus_3.uasset" 424
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Procedural/Nature_Cactus_3.uasset" 425
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Foliage/SM_Fol_Cactus_2.uasset" 426
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Procedural/Nature_Cactus_2.uasset" 427
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Foliage/SM_Fol_Cactus_1.uasset" 428
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Procedural/Nature_Cactus_1.uasset" 429
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Props/BP_Lantern.uasset" 430
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Mining_Rails_N.uasset" 431
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Mining_Rails_M.uasset" 432
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Mining_Rails_BC.uasset" 433
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_MiningRails.uasset" 434
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Mining_Rails_Straight1.uasset" 435
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Mining_Rails_Start.uasset" 436
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Mining_Rails_End.uasset" 437
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Mining_Cart_N.uasset" 438
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Mining_Cart_M.uasset" 439
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Mining_Cart_BC.uasset" 440
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_MiningCart.uasset" 441
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Mining_Cart.uasset" 442
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Cave/BP_Mining_Rails.uasset" 443
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Cave/T_Cave_Rock_Macro2_N.uasset" 444
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Cave/T_Cave_Rock_Macro2_M.uasset" 445
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Cave/T_Cave_Rock2_N.uasset" 446
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Cave/T_Cave_Rock2_BC.uasset" 447
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Cave/T_Cave_Rock1_N.uasset" 448
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Cave/T_Cave_Rock1_BC.uasset" 449
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Cave/T_Cave_GroundRough_N.uasset" 450
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Cave/T_Cave_GroundRough_M.uasset" 451
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Cave/T_Cave_GroundRough_BC.uasset" 452
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 453
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_BreakNormal.uasset" 454
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 455
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 456
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 457
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 458
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/MasterMaterials/M_Cave.uasset" 459
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Nature/Cave/MI_Cave_Wall.uasset" 460
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Cave/SM_Cave_Wall_COut_R_10x10.uasset" 461
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Cave/SM_Cave_Wall_CIn_R_10x10.uasset" 462
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Nature/Cave/MI_Cave_SmallRock.uasset" 463
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Cave/SM_Cave_SmallRock_Set3.uasset" 464
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Nature/Cave/MI_Cave_Roof.uasset" 465
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Cave/SM_Cave_Roof_20x20.uasset" 466
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Cave/T_Cave_GroundSmooth_N.uasset" 467
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Cave/T_Cave_GroundSmooth_M.uasset" 468
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Cave/T_Cave_GroundSmooth_BC.uasset" 469
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/MasterMaterials/M_CaveGround.uasset" 470
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Nature/Cave/MI_Cave_Ground.uasset" 471
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Cave/SM_Cave_Floor_20x20.uasset" 472
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Nature/Cave/MI_Cave_Blocks.uasset" 473
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Cave/SM_Cave_Block_5.uasset" 474
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Cave/SM_Cave_Block_3.uasset" 475
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/T_FakeReflections.uasset" 476
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Effects/M_CaveFog.uasset" 477
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Cave/BP_Parent_Cave.uasset" 478
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Cave/BP_Cave_Tunnel_Section_3Way.uasset" 479
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Cave/SM_Cave_Tunnel_Corner_Out.uasset" 480
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Foliage/T_Fol_Bush_BC.uasset" 481
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Foliage/T_Fol_Grass_N.uasset" 482
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Foliage/T_Fol_Grass_M.uasset" 483
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Foliage/T_Fol_Grass_BC.uasset" 484
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 485
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 486
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 487
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/MasterMaterials/M_Foliage.uasset" 488
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Foliage/T_Fol_Bush_N.uasset" 489
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Foliage/T_Fol_Bush_M.uasset" 490
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Nature/Foliage/MI_Bush.uasset" 491
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Foliage/SM_Fol_Roots2.uasset" 492
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Foliage/SM_Fol_Roots1.uasset" 493
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Cave/BP_Cave_Tunnel_Corner_Out.uasset" 494
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Cave/SM_Cave_Tunnel_Corner_In.uasset" 495
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Cave/BP_Cave_Tunnel_Corner_In.uasset" 496
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Cave/SM_Cave_Tunnel_S_1.uasset" 497
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Cave/BP_Cave_Tunnel1.uasset" 498
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Cave/SM_Cave_Shaft_Corner_Out.uasset" 499
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Nature/Cave/M_Cave_Supprt.uasset" 500
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Cave/SM_Cave_Support_1X_1.uasset" 501
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Cave/SM_Cave_Support_1X4_1.uasset" 502
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Foliage/SM_Fol_Roots3.uasset" 503
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Cave/SM_Cave_Support_3X6_1.uasset" 504
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Cave/BP_Cave_Shaft_Corner_Out.uasset" 505
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Cave/SM_Cave_Shaft_Corner_In.uasset" 506
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Cave/BP_Cave_Shaft_Corner_In.uasset" 507
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Cave/SM_Cave_Shaft_S_2.uasset" 508
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Cave/BP_Cave_Shaft2.uasset" 509
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Cave/SM_Cave_Shaft_S_1.uasset" 510
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Cave/BP_Cave_Shaft1.uasset" 511
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Nature/Cave/MI_Cave_Entrance.uasset" 512
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Cave/SM_Cave_Shaft_Entrance.uasset" 513
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Cave/BP_Cave_Entrance.uasset" 514
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Effects/T_SandWind_N.uasset" 515
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Rocks/T_Tiling_Rock_2_N.uasset" 516
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Rocks/T_Tiling_Rock_2_M.uasset" 517
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Rocks/T_Tiling_Rock_2_BC.uasset" 518
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Rocks/T_Tiling_Rock_1_N.uasset" 519
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Rocks/T_Tiling_Rock_1_M.uasset" 520
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Rocks/T_Tiling_Rock_1_BC.uasset" 521
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Rocks/T_Tiling_Detail_Rock_N.uasset" 522
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/HeightLerp.uasset" 523
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/MasterMaterials/M_Rock.uasset" 524
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Nature/Rocks/MI_Medium_Rock.uasset" 525
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Rocks/SM_Medium_Rock_9.uasset" 526
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Procedural/Nature_Macro_Medium_9.uasset" 527
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Rocks/SM_Medium_Rock_8.uasset" 528
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Procedural/Nature_Macro_Medium_8.uasset" 529
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Rocks/SM_Medium_Rock_7.uasset" 530
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Procedural/Nature_Macro_Medium_7.uasset" 531
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Rocks/SM_Medium_Rock_6.uasset" 532
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Procedural/Nature_Macro_Medium_6.uasset" 533
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Rocks/SM_Medium_Rock_5.uasset" 534
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Procedural/Nature_Macro_Medium_5.uasset" 535
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Rocks/SM_Medium_Rock_4.uasset" 536
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Procedural/Nature_Macro_Medium_4.uasset" 537
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Rocks/SM_Medium_Rock_3.uasset" 538
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Procedural/Nature_Macro_Medium_3.uasset" 539
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Rocks/SM_Medium_Rock_2.uasset" 540
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Procedural/Nature_Macro_Medium_2.uasset" 541
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Rocks/SM_Medium_Rock_1.uasset" 542
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Procedural/Nature_Macro_Medium_1.uasset" 543
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Procedural/StoneScattering.uasset" 544
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Procedural/FoliageScattering.uasset" 545
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_WoodenBucket_N.uasset" 546
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_WoodenBucket_M.uasset" 547
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_WoodenBucket_BC.uasset" 548
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_WoodenBucket.uasset" 549
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Outside/SM_Well.uasset" 550
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Outside/M_Outside_SupportStruct.uasset" 551
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Outside/SM_Water_Tower.uasset" 552
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Exterior/M_Building_Sign_Chassis.uasset" 553
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Decals/T_TownSign_BC.uasset" 554
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/MasterMaterials/M_Decal.uasset" 555
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Signs/MI_TownName_Decal.uasset" 556
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Outside/SM_Sign_Town_Name.uasset" 557
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Decals/T_StreetNamesSign_BC.uasset" 558
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Signs/MI_StreetNames_Decal.uasset" 559
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Outside/SM_Sign_Street_Names.uasset" 560
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Outside/M_Outside_WoodTrim.uasset" 561
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Outside/SM_Horse_Park_2X.uasset" 562
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/MasterMaterials/M_Water.uasset" 563
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Effects/MI_Water.uasset" 564
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Outside/SM_Horse_Drinking_Bowl.uasset" 565
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Outside/SM_Carriage.uasset" 566
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_WoodenBoxLarge_N.uasset" 567
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_WoodenBoxLarge_M.uasset" 568
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_WoodenBoxLarge_BC.uasset" 569
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_WoodenBoxLarge.uasset" 570
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Wooden_Box_Large.uasset" 571
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_MilkContainer_N.uasset" 572
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_MilkContainer_M.uasset" 573
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_MilkContainer_BC.uasset" 574
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_MilkContainer.uasset" 575
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Milk_Container_Set2.uasset" 576
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Milk_Container.uasset" 577
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Hay_Bale_N.uasset" 578
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Hay_Bale_M.uasset" 579
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Hay_Bale_BC.uasset" 580
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_HayBale.uasset" 581
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Hay_Bale_Set2.uasset" 582
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Hay_Bale.uasset" 583
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Dynamite_N.uasset" 584
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Dynamite_M.uasset" 585
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Dynamite_BC.uasset" 586
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_Dynamite.uasset" 587
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Dynamite2_Set1.uasset" 588
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Coffin_N.uasset" 589
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Coffin_M.uasset" 590
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Coffin_BC.uasset" 591
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_Coffin.uasset" 592
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Coffin_Open.uasset" 593
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Coffin_Lid.uasset" 594
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Coffin.uasset" 595
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Nature/Rocks/MI_Tall_Rock.uasset" 596
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Rocks/SM_Rock_Tall2.uasset" 597
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Rocks/SM_Rock_Tall1.uasset" 598
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Nature/Rocks/MI_Plate_Rock.uasset" 599
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Rocks/SM_Rock_Plate3.uasset" 600
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Rocks/SM_Rock_Plate2.uasset" 601
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Rocks/SM_Rock_Plate1.uasset" 602
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Cave/SM_Cave_SmallRock_9.uasset" 603
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Cave/SM_Cave_SmallRock_8.uasset" 604
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Cave/SM_Cave_SmallRock_7.uasset" 605
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Cave/SM_Cave_SmallRock_6.uasset" 606
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Cave/SM_Cave_Block_Set2.uasset" 607
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Cave/SM_Cave_Block_Set1.uasset" 608
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 609
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 610
+"../../../Engine/Content/EngineMaterials/DefaultNormal_Uncompressed.uasset" 611
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_BarrelTall2_BC.uasset" 612
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_BarrelTall2.uasset" 613
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 614
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldAlignedNormals_HighQuality.uasset" 615
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Functions/MF_Landscape_Wetness.uasset" 616
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Functions/MF_Landscape_Sand.uasset" 617
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedNormal.uasset" 618
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Functions/MF_Landscape_Rock.uasset" 619
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Functions/MF_Landscape_Grass.uasset" 620
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Nature/Landscape/WetnessGrass.uasset" 621
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Rocks/T_Debris_Rocks_N.uasset" 622
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Rocks/T_Debris_Rocks_M.uasset" 623
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Rocks/T_Debris_Rocks_BC.uasset" 624
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Nature/Rocks/MI_Debris_Rocks.uasset" 625
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Rocks/SM_Debris_Rocks_3.uasset" 626
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Nature/Landscape/SandGrass.uasset" 627
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Nature/Landscape/RockGrass.uasset" 628
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Foliage/T_Fol_Opuntia_N.uasset" 629
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Foliage/T_Fol_Opuntia_M.uasset" 630
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Nature/Foliage/T_Fol_Opuntia_BC.uasset" 631
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Nature/Foliage/M_Opuntia.uasset" 632
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Foliage/SM_Fol_Opuntia_2.uasset" 633
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Foliage/SM_Fol_Opuntia_1.uasset" 634
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Nature/Foliage/MI_Grass.uasset" 635
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Foliage/SM_Fol_Grass_Set1.uasset" 636
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Foliage/SM_Fol_Grass_Hay_Set3.uasset" 637
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Foliage/SM_Fol_Grass_Hay_Set2.uasset" 638
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Foliage/SM_Fol_Grass_Hay_Set1.uasset" 639
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Foliage/SM_Fol_Bush_2.uasset" 640
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Foliage/SM_Fol_Bush_1.uasset" 641
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Foliage/SM_Fol_Barrel_Cactus_2.uasset" 642
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Nature/Foliage/SM_Fol_Barrel_Cactus_1.uasset" 643
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Nature/Landscape/GrassGrass.uasset" 644
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/MasterMaterials/M_Landscape.uasset" 645
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Nature/Landscape/MI_Landscape.uasset" 646
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/MasterMaterials/M_Clouds.uasset" 647
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Functions/PP_HeatShimmer.uasset" 648
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Maps/ExampleMapDynamic_BuiltData.uasset" 649
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Nature/Landscape/Wetness_LayerInfo.uasset" 650
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Nature/Landscape/Sand_LayerInfo.uasset" 651
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Nature/Landscape/Rock_LayerInfo.uasset" 652
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Nature/Landscape/Grass_LayerInfo.uasset" 653
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 654
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Decals/T_HotelSign_BC.uasset" 655
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Signs/MI_Hotel_Decal.uasset" 656
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Posters_BC.uasset" 657
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_Posters.uasset" 658
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Posters_Set3.uasset" 659
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Posters_Set2.uasset" 660
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Photos_Set1.uasset" 661
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_GlassBottles_N.uasset" 662
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_GlassBottles_M.uasset" 663
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_GlassBottles_BC.uasset" 664
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/MasterMaterials/M_FakeGlass.uasset" 665
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_GlassBottles.uasset" 666
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Glass_Bottle_Set2.uasset" 667
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Glass_Bottle_Set1.uasset" 668
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Walls/SM_Building_Int_Stairs.uasset" 669
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Paintings_BC.uasset" 670
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_Paintings1.uasset" 671
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Paintings_Set2.uasset" 672
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Paintings_Set1.uasset" 673
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Carpet1_4X2.uasset" 674
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Building_Int_Small_Drawer.uasset" 675
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Building_Int_Pillar_1X.uasset" 676
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Walls/SM_Building_Int_Wall_4X.uasset" 677
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_WallMirror.uasset" 678
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Wall_Mirror.uasset" 679
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Building_Int_Bar_Shelf.uasset" 680
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Floors/SM_Building_Floor_2X4.uasset" 681
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_A_Wall_Roof_Flat_4X4.uasset" 682
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_A_Wall_Roof_Flat_1X4.uasset" 683
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_A_Wall_D_4X.uasset" 684
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Terrace/SM_Building_B_Terrace_Middle_4X.uasset" 685
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Terrace/SM_Building_B_Terrace_End_R_1X.uasset" 686
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Terrace/SM_Building_B_Terrace_End_L_1X.uasset" 687
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/SM_Sign_Hotel.uasset" 688
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_SupplyBox_N.uasset" 689
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_SupplyBox_M.uasset" 690
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_SupplyBox_BC.uasset" 691
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_SupplyBox.uasset" 692
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Supply_Box_Set1.uasset" 693
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Floors/SM_Building_Floor_2X6.uasset" 694
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Walls/SM_Building_Int_Wall_D_2X.uasset" 695
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Walls/SM_Building_Int_Wall_2X.uasset" 696
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Walls/SM_Building_Int_Wall_1X.uasset" 697
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Walls/SM_Building_Int_C_1X.uasset" 698
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Carpet1_6X4.uasset" 699
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Building_Int_Writing_Desk.uasset" 700
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Building_Int_Bar_Table.uasset" 701
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_A_Wall_Roof_Middle_2X.uasset" 702
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_A_Wall_Roof1_Middle_2X.uasset" 703
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_A_Wall_Roof1_C_R.uasset" 704
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_A_Wall_Roof1_C_L.uasset" 705
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_CashRegister_N.uasset" 706
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_CashRegister_M.uasset" 707
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_CashRegister_BC.uasset" 708
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_CashRegister.uasset" 709
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Cash_Register.uasset" 710
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_A_Wall_Roof_Middle_1X.uasset" 711
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Buildings/BP_Building_DoubleDoor1.uasset" 712
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/SM_Building_Door2.uasset" 713
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Buildings/BP_Building_Door2.uasset" 714
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Buildings/BP_B_Hotel.uasset" 715
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Supply_Box_Set2.uasset" 716
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Supply_Box.uasset" 717
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Shovel_N.uasset" 718
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Shovel_M.uasset" 719
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Shovel_BC.uasset" 720
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_Shovel.uasset" 721
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Shovel.uasset" 722
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_FryingPan_N.uasset" 723
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_FryingPan_M.uasset" 724
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_FryingPan_BC.uasset" 725
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_FryingPan.uasset" 726
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Pans_Set2.uasset" 727
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Milk_Container_Set1.uasset" 728
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_MetalTub_N.uasset" 729
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_MetalTub_M.uasset" 730
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_MetalTub_BC.uasset" 731
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_MetalTub.uasset" 732
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Metal_Tub_Set1.uasset" 733
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_FoldedTent_N.uasset" 734
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_FoldedTent_M.uasset" 735
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_FoldedTent_Bc.uasset" 736
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_FoldedTent.uasset" 737
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Hat.uasset" 738
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Folded_Tent_Set2.uasset" 739
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Folded_Tent_Set1.uasset" 740
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_FabricSack_N.uasset" 741
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_FabricSack_M.uasset" 742
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_FabricSack_BC.uasset" 743
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_FabricSack.uasset" 744
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Fabric_Sack_Set3.uasset" 745
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Fabric_Sack_Set1.uasset" 746
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Barrel_Tall_Set1.uasset" 747
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_Int_Wall3_M.uasset" 748
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_Int_Wall3_BC.uasset" 749
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Interior/MI_Interior_Wall3.uasset" 750
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Safe_N.uasset" 751
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Safe_M.uasset" 752
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Safe_BC.uasset" 753
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_Safe.uasset" 754
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Safe_Door.uasset" 755
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Safe_Chassis.uasset" 756
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Props/BP_Safe.uasset" 757
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Building_Int_Shop_Desk.uasset" 758
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_Wall_W_2X_Curtains.uasset" 759
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_A_Wall_W_2X.uasset" 760
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Terrace/SM_Building_A_Terrace_Middle_2X.uasset" 761
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Terrace/SM_Building_A_Terrace_Corner_3X3.uasset" 762
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Decals/T_GeneralStoreSign_BC.uasset" 763
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Signs/MI_GeneralStore_Decal.uasset" 764
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/SM_Sign_General_Store.uasset" 765
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_TonicBottle_N.uasset" 766
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_TonicBottle_M.uasset" 767
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_TonicBottle_BC.uasset" 768
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_TonicBottle.uasset" 769
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Tonic_Bottle.uasset" 770
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Pans_Set1.uasset" 771
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_FoodCans_N.uasset" 772
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_FoodCans_M.uasset" 773
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_FoodCans_BC.uasset" 774
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_FoodCans.uasset" 775
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Food_Can_Set4.uasset" 776
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Food_Can_Set2.uasset" 777
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Food_Can_Set1.uasset" 778
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Fabric_Sack_Set2.uasset" 779
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Basket_Set2.uasset" 780
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Basket_Set1.uasset" 781
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Glass_Bottle_Set3.uasset" 782
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Carpet1_3X3.uasset" 783
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_A_Wall_Roof_Flat_2X1.uasset" 784
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Buildings/BP_B_GeneralStore.uasset" 785
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_Wall_W4_2X_Curtains.uasset" 786
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_Wall_W3_2X_Curtains.uasset" 787
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_A_Wall_W4_2X.uasset" 788
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_A_Wall_W3_2X.uasset" 789
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Book_Set2.uasset" 790
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Book_Set1.uasset" 791
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_WritingDeskChair_N.uasset" 792
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_WritingDeskChair_M.uasset" 793
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_WritingDeskChair_BC.uasset" 794
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_WritingTableChair.uasset" 795
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Building_Int_Desk_Chair.uasset" 796
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Floors/SM_Building_Floor_2X2.uasset" 797
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Buildings/BP_B_CommonHouse1.uasset" 798
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Outside/SM_Windmill_Chassis.uasset" 799
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Outside/SM_Windmill_Blades.uasset" 800
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Buildings/BP_Windmill.uasset" 801
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Outside/SM_Lighting_Pole.uasset" 802
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Buildings/BP_Lighting_Pole.uasset" 803
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Outside/SM_Hanging_Platform_Lever.uasset" 804
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Outside/SM_Hanging_Platform_Hatch.uasset" 805
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Outside/SM_Hanging_Platform.uasset" 806
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Buildings/BP_Hanging_Platform.uasset" 807
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Barrel_Tall_Set2.uasset" 808
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Decals/T_DesertFox_BC.uasset" 809
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Signs/MI_DesertFox_Decal.uasset" 810
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Posters_Set1.uasset" 811
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Wooden_Box_Large_Set2.uasset" 812
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Wooden_Box_Large_Set1.uasset" 813
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_Int_Wall2_N.uasset" 814
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_Int_Wall2_M.uasset" 815
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Tiling/T_Int_Wall2_BC.uasset" 816
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Interior/MI_Interior_Wall2.uasset" 817
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Buildings/BP_B_Storage.uasset" 818
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Outside/SM_Building_Stairs_4X4.uasset" 819
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Walls/SM_Cell_Bars_D_2X.uasset" 820
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Walls/SM_Cell_Bars_2X.uasset" 821
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Terrace/SM_Building_A_Terrace_Middle_4X_Wide.uasset" 822
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Terrace/SM_Building_A_Terrace_Middle_2X_Wide.uasset" 823
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Terrace/SM_Building_A_Terrace_End_R_1X1_Wide.uasset" 824
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Terrace/SM_Building_A_Terrace_End_L_1X1_Wide.uasset" 825
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Terrace/SM_Building_A_Terrace_Corner_5X5_Wide.uasset" 826
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Decals/T_SheriffSign_BC.uasset" 827
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Signs/MI_Sheriff_Decal.uasset" 828
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/SM_Sign_Sheriff.uasset" 829
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Walls/SM_Cell_W_Bars_2X_1.uasset" 830
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Sound/Waves/SFX_CellDoor_Opening1.uasset" 831
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Sound/Cues/SFX_CellDoor_Opening_Cue.uasset" 832
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Walls/SM_Cell_Bars_Door.uasset" 833
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Buildings/BP_Cell_Door1.uasset" 834
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Buildings/BP_B_Sheriff.uasset" 835
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Wooden_Box_Large2.uasset" 836
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Piano_N.uasset" 837
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Piano_M.uasset" 838
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Piano_BC.uasset" 839
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_Piano.uasset" 840
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Piano.uasset" 841
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Stool_N.uasset" 842
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Stool_M.uasset" 843
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Stool_BC.uasset" 844
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_Stool.uasset" 845
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Building_Int_Stool.uasset" 846
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Building_Int_Bar_Chair.uasset" 847
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_Wall_1X.uasset" 848
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_A_Wall_Roof_Flat_2X4.uasset" 849
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Decals/T_SaloonSign_BC.uasset" 850
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Signs/MI_Saloon_Decal.uasset" 851
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/SM_Sign_Saloon.uasset" 852
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Tonic_Bottle_Set1.uasset" 853
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Teapod.uasset" 854
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Radio_N.uasset" 855
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Radio_M.uasset" 856
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Props/T_Radio_BC.uasset" 857
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Props/MI_Radio.uasset" 858
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Radio.uasset" 859
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Frying_Pan.uasset" 860
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Exterior/T_Building_Saloon_Door_N.uasset" 861
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Exterior/T_Building_Saloon_Door_M.uasset" 862
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Exterior/T_Building_Saloon_Door_BC.uasset" 863
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Exterior/MI_Building_Saloon_Door.uasset" 864
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/SM_Building_Saloon_Door.uasset" 865
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Buildings/BP_Building_SaloonDoors.uasset" 866
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Buildings/BP_B_Saloon.uasset" 867
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Outside/M_Church_Bell.uasset" 868
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Outside/SM_Church_Bell.uasset" 869
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Building_Int_Sermon_Bench.uasset" 870
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Furniture/SM_Building_Int_Church_Bench.uasset" 871
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Interior/Floors/SM_Building_Floor_4X4.uasset" 872
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_Roof_Chr_Middle_4X.uasset" 873
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Exterior/T_Building_Window2_M.uasset" 874
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Exterior/MI_BuildingGlass2.uasset" 875
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_Roof_Chr_End.uasset" 876
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_Chr_Tower.uasset" 877
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_A_Wall_D2_2X.uasset" 878
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_A_Wall_Corner_Out_1X.uasset" 879
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_A_Wall_2X_2.uasset" 880
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Terrace/SM_Building_Footer_Middle_1X.uasset" 881
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Terrace/SM_Building_Footer_C_Out_1X1.uasset" 882
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Terrace/SM_Building_Chr_Stairs_2X2.uasset" 883
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Decals/T_ChurchSign_BC.uasset" 884
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Signs/MI_Hotel_Church.uasset" 885
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/SM_Sign_Church.uasset" 886
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Exterior/Walls/SM_Building_A_Wall_W6_2X.uasset" 887
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Buildings/BP_B_Church.uasset" 888
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Props/SM_Safe.uasset" 889
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Textures/Structure/Decals/T_BankSign_BC.uasset" 890
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Signs/MI_Bank_Decal.uasset" 891
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Buildings/BP_B_Bank.uasset" 892
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Materials/Structure/Exterior/M_Building_Fence_Wood.uasset" 893
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Models/Structure/Outside/SM_Building_Fence_Wooden.uasset" 894
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Blueprints/Buildings/BP_Building_WoodFence.uasset" 895
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/Interactibles/BP_Light.uasset" 896
+"../../../../../../Users/drewm/OneDrive/Documents/Unreal Projects/VRWalkthrough/Content/WesterTown/Maps/ExampleMapDynamic.umap" 897
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 898
+"../../../Engine/Content/Maps/Entry.umap" 899
